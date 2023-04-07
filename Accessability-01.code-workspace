@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Accessability-01"
+		},
+		{
+			"path": "assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets",
+		"liveServer.settings.port": 5501
+	}
+}
